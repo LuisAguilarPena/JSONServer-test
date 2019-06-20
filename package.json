@@ -1,0 +1,22 @@
+{
+  "name": "jsonserver-test",
+  "version": "1.0.0",
+  "description": "Fake REST API for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisAguilarPena/JSONServer-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisAguilarPena/JSONServer-test/issues"
+  },
+  "homepage": "https://github.com/LuisAguilarPena/JSONServer-test#readme",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
